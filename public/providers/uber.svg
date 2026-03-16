@@ -1,0 +1,6 @@
+<svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="24" height="24" rx="6" fill="#000000"/>
+  <path d="M12.002 5C9.586 5 8 6.595 8 8.594c0 3.2 3.143 6.5 4.002 8.406C12.86 15.094 16 11.794 16 8.594 16 6.595 14.418 5 12.002 5zm0 5.063c-1.03 0-1.866-.84-1.866-1.875s.835-1.875 1.866-1.875 1.866.84 1.866 1.875-.836 1.875-1.866 1.875z" fill="white"/>
+  <text x="12" y="20" text-anchor="middle" fill="white" font-size="4" font-weight="bold" font-family="Arial">UBER</text>
+</svg>
+
